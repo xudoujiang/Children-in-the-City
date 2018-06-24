@@ -45,13 +45,16 @@
 
 ### 项目执行计划
 `持续更新中`
-1.  围绕「空间」「儿童」开展全局型学术搜索，并提炼出：
-（1）研究学者及其观点、实践项目。例如美国早期教育专家Kathy Hirsh-Pasek 主导的项目[Learning-landscapes](http://kathyhirshpasek.com/learning-landscapes/)，以及她与另一位心理学家[Roberta Michnick Golinkoff](http://roberta-golinkoff.com/)合作发起的项目[Urban Thinkscape](https://developingchild.harvard.edu/innovation-application/innovation-in-action/urban-thinkscape/)
-（2）梳理出「儿童活动空间」的类型
-（3）寻找评估「儿童活动空间」的维度、指标有哪些（参照Child-friendly City），并据此对以上空间进行初步分析。
-（4）选取不同尺度的样本进行考察分析。尺度1：城市；尺度2：社区；尺度3：某一场所，譬如小区游乐场所。
-（5）得出结论。
-（6）汇总优秀项目、优质资讯来源、数据分析工具箱，等等。
+1. 围绕「空间」「儿童」开展全局型学术搜索，并提炼出：
+
+   （0）研讨会议及倡导机构，如[Unicef](https://childfriendlycities.org/)
+
+   （1）研究学者及其观点、实践项目。例如美国早期教育专家Kathy Hirsh-Pasek 主导的项目[Learning-landscapes](http://kathyhirshpasek.com/learning-landscapes/)，以及她与另一位心理学家[Roberta Michnick Golinkoff](http://roberta-golinkoff.com/)合作发起的项目[Urban Thinkscape](https://developingchild.harvard.edu/innovation-application/innovation-in-action/urban-thinkscape/)
+   （2）梳理出「儿童活动空间」的类型
+   （3）寻找评估「儿童活动空间」的维度、指标有哪些（参照Child-friendly City），并据此对以上空间进行初步分析。
+   （4）选取不同尺度的样本进行考察分析。尺度1：城市；尺度2：社区；尺度3：某一场所，譬如小区游乐场所。
+   （5）得出结论。
+   （6）汇总优秀项目、优质资讯来源、数据分析工具箱，等等。
 
 
 
