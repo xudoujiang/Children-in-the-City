@@ -28,11 +28,12 @@
 
 
 
-### 待更新
-- 团队项目协作仓库地址
-`后续更新`
+### 仓库地址
 
-- 项目简介：
+[Children-in-the-City](https://github.com/xudoujiang/Children-in-the-City)
+
+
+### 项目简介
 空间与儿童。本报告期待对以下问题进行探索：
   - 「空间」的教育意义是什么？
   - 儿童活动空间有哪些类型？分别具有哪些教育意义？
@@ -43,6 +44,7 @@
 
 
 ### 项目执行计划
+`持续更新中`
 1.  围绕「空间」「儿童」开展全局型学术搜索，并提炼出：
 （1）研究学者及其观点、实践项目。例如美国早期教育专家Kathy Hirsh-Pasek 主导的项目[Learning-landscapes](http://kathyhirshpasek.com/learning-landscapes/)，以及她与另一位心理学家[Roberta Michnick Golinkoff](http://roberta-golinkoff.com/)合作发起的项目[Urban Thinkscape](https://developingchild.harvard.edu/innovation-application/innovation-in-action/urban-thinkscape/)
 （2）梳理出「儿童活动空间」的类型
@@ -51,7 +53,7 @@
 （5）得出结论。
 （6）汇总优秀项目、优质资讯来源、数据分析工具箱，等等。
 
-`持续更新中`
+
 
 
 ###  推荐公众号
