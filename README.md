@@ -80,12 +80,8 @@
 
 
 
-### 团队成员介绍
-
-- 分工：许豆浆 + 知情行者 + xudoujiang（个人微信：doujiang920） 
-
-欢迎加入！尤其呼唤有城市规划学科背景、熟悉空间数据分析工具的童鞋……
-
 
 ![空间阅读术.jpg](https://upload-images.jianshu.io/upload_images/10451-85dae4a6d3e206e4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+### Changelog
+- 180624 许豆浆创建
